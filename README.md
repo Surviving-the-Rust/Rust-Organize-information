@@ -4,8 +4,3 @@
 ### 작성자
 - [김태한](https://github.com/gaeduck-0908)
 - [손태영](https://github.com/alfredsty)
-# 1 Weak
-# 2 Weak
-# 3 Weak
-# 4 Weak
-# 5 Weak
